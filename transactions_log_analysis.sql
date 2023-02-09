@@ -1,3 +1,6 @@
+-- copying over my work in Zettablock. https://app.zettablock.com/my-workspace/queries/qu5-ace318ae-0f2b-4524-be7e-44059efb85da
+-- Here I'm just exploring transaction logs and price data using eth and polygon mainnets. You can build upon this in many ways but here I am looking at the price of MATIC at the time of a given transaction.
+
 
 -- filter transaction table
 with transactions as 
